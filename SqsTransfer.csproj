@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <None Remove=".gitignore" />
-    <None Remove="appSettings.json" />
   </ItemGroup>
 
   <ItemGroup>
